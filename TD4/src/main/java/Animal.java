@@ -6,7 +6,7 @@
 
 /**
  *
- * @author incen
+ * @author incendio
  */
 public abstract class Animal {
 	private String espèce;
